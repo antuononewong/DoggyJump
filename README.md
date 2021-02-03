@@ -1,6 +1,8 @@
 # DoggyJump
 Source code/resources for battle arena style game
 
+Note: art assets excluded from project hierarchy
+
 First game I've every fully developed. Submission for the GMTK Game Jam based on the theme, "Out of Control." Overhead "shooter," 
 where you have you weave around critters and take them out with your powerful barks. There's also rival wolves that will attempt to take 
 over your territory. Don't let them swarm you!
